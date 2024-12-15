@@ -1,0 +1,27 @@
+# adblock hosts by Rem01Gaming
+
+# oh yeah, fuck you gelbooru for updating ads domain 24/7
+0.0.0.0 lwioszfmupt.com
+0.0.0.0 chiamfxz.com
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 www.aboutads.info
+0.0.0.0 ads-static.conde.digital
+0.0.0.0 static.adsafeprotected.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 trc.taboola.com
+0.0.0.0 popup.taboola.com
+0.0.0.0 taboola.com
+0.0.0.0 piupiustarship.com
+0.0.0.0 tfaxzosaf.com
+0.0.0.0 a.realsrv.com
+0.0.0.0 xisrzoruhmr.com
+0.0.0.0 s.dxzvw.com
+0.0.0.0 79qkr.bemobtrcks.com
+0.0.0.0 retteringpartnance.com
+0.0.0.0 rajapg7.site
+0.0.0.0 aqsossaj.com
+0.0.0.0 augranassassin.com
+0.0.0.0 kpywhinapxaq.com
+0.0.0.0 www.npttech.com
+0.0.0.0 cdn.taboola.com
