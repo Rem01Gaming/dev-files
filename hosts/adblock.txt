@@ -25,3 +25,4 @@
 0.0.0.0 kpywhinapxaq.com
 0.0.0.0 www.npttech.com
 0.0.0.0 cdn.taboola.com
+0.0.0.0 tuqolhqic.com
