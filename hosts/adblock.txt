@@ -29,3 +29,4 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 faqkfuxadok.com
 0.0.0.0 obqaxzon.com
+0.0.0.0 diagramjawlineunhappy.com
