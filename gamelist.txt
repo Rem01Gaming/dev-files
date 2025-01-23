@@ -45,6 +45,7 @@ com.and.games505.Terraria
 com.archosaur.sea.dr.gp
 com.autumn.skullgirls
 com.axlebolt.standoff2
+com.bandainamcoent.dblegends_ww
 com.bandainamcoent.idolmaster_gakuen
 com.bandainamcoent.imas_millionlive_theaterdays
 com.bandainamcoent.opbrww
@@ -157,7 +158,6 @@ com.kurogame.mingchao
 com.kurogame.wutheringwaves.global
 com.leiting.wf
 com.lemcnsun.soultide.android
-com.lemon.lvoverseas
 com.levelinfinite.hotta.gp
 com.levelinfinite.sgameGlobal
 com.levelinfinite.sgameGlobal.midaspay
@@ -248,6 +248,7 @@ com.nexon.bluearchive
 com.nexon.konosuba
 com.neowiz.game.idolypride.en
 com.nexon.kartdrift
+com.noctua.android.crazyones
 com.noctuagames.android.ashechoes
 com.ngame.allstar.eu
 com.nianticlabs.monsterhunter
@@ -256,6 +257,7 @@ com.papegames.nn4.en
 com.pearlabyss.blackdesertm.gl
 com.pearlabyss.blackdesertm
 com.pinkcore.tkfm
+com.plarium.raidlegends
 com.playdigious.deadcells.mobile
 com.playmini.miniworld
 com.play.rosea
@@ -313,6 +315,7 @@ com.soulgamechst.majsoul
 com.spaceapegames.beatstar
 com.sprduck.garena.vn
 com.squareenix.lis
+com.starform.metalstorm
 com.stove.epic7.google
 com.sugarfun.gp.sea.lzgwy
 com.sunborn.girlsfrontline.en
@@ -363,6 +366,7 @@ com.the10tons.dysmantle
 com.tinybuildgames.helloneighbor
 com.tipsworks.android.pascalswager
 com.tipsworks.pascalswager
+com.tumuyan.ncnn.realsr
 com.tungsten.fcl
 com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter
 com.unity.mmd
